@@ -159,6 +159,11 @@ body {
   cursor: pointer;
 }
 
+.winning-message > div {
+  justify-content: center;
+  align-items: center;
+}
+
 .winning-message button:hover {
   background-color: black;
   color: white;
