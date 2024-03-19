@@ -160,6 +160,7 @@ body {
 }
 
 .winning-message > div {
+  text-align: center;
   justify-content: center;
   align-items: center;
 }
