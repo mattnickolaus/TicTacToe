@@ -1,14 +1,15 @@
-#  TicTacToe Game
+# TicTacToe Game
 
-In this project I completed a TicTacToe game that uses fairly simple JavaScript logic and some interesting CSS to create the elements of the game. The board itself is created by 9 data cells and the X's and O's by using the before and after pseudo classes to create their shapes depending on the current users turn. I similarly created a hover effect that displays the grayed out O or X on the hovered tile by setting the board's hover class after a turn is taken. 
+In this project I completed a TicTacToe game that uses fairly simple JavaScript logic and some interesting CSS to create the elements of the game. The board itself is created by 9 data cells and the X's and O's by using the before and after pseudo classes to create their shapes depending on the current users turn. I similarly created a hover effect that displays the grayed out O or X on the hovered tile by setting the board's hover class after a turn is taken.
 
-![[TicTacToeBoardPic.png]]
+![TicTacToe Board Example](https://url/to/TicTacToeBoardPic.png)
 
-When one of the conditions of winning the game occurs or the board is filled meaning the game is a draw, a winning message appears on screen with a button to restart the game. 
+When one of the conditions of winning the game occurs or the board is filled meaning the game is a draw, a winning message appears on screen with a button to restart the game.
 
 ![[tictactoeWinningMessage.png]]
 
 ### Skills Used
+
 1. **JavaScript Fundamentals**: Understanding of basic JavaScript syntax, data types, variables, functions, loops, and conditionals is essential.
 2. **DOM Manipulation**: Ability to manipulate HTML elements using JavaScript, updating the game board dynamically.
 3. **Event Handling**: Knowledge of handling user interactions such as clicks on game cells or buttons.
