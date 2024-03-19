@@ -2,11 +2,11 @@
 
 In this project I completed a TicTacToe game that uses fairly simple JavaScript logic and some interesting CSS to create the elements of the game. The board itself is created by 9 data cells and the X's and O's by using the before and after pseudo classes to create their shapes depending on the current users turn. I similarly created a hover effect that displays the grayed out O or X on the hovered tile by setting the board's hover class after a turn is taken.
 
-![TicTacToe Board Example](https://url/to/TicTacToeBoardPic.png)
+![TicTacToe Board Example](TicTacToeBoardPic.png)
 
 When one of the conditions of winning the game occurs or the board is filled meaning the game is a draw, a winning message appears on screen with a button to restart the game.
 
-![[tictactoeWinningMessage.png]]
+![TicTacToe Winning Message](tictactoeWinningMessage.png)
 
 ### Skills Used
 
